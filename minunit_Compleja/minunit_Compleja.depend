@@ -1,0 +1,5 @@
+# depslib dependency file v1.0
+1385316878 source:c:\users\ricardo\desktop\clase\progra\minunit_compleja\main.c
+	<stdio.h>
+	<stdlib.h>
+
